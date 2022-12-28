@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+.center{
+	margin-left : auto;
+	margin-right : auto;
+	margin-top : 120px;
+}
+.box{
+	background-color : rgba(0, 0, 0, 0.4);
+	border-radius : 10px;
+	width : 45%;
+	box-shadow : 0 0 8px 2px white;
+}
+label, input, h1, a, footer{
+	color : white;
+	font-family: 'Roboto Mono', monospace, sans-serif;
+}
+table{
+	padding : 15px;
+}
+input{
+	width : 100%;
+	padding : 8px 14px;		/*8px=top, bottom; 14px=right, left*/
+	margin-bottom : 10px;
+	background : none;
+	border : none;
+	outline : none;
+}
+.box-input{
+	display : flex;
+	justify-content : space-between;
+	margin-bottom : 13px;
+	border-bottom : 2px solid white;
+	padding : 3px 0;
+	font-size : 15px;
+	color : white;
+}
+input[type = checkbox]{
+	width : 3%
+}
+input[type = submit]{
+	font-weight : bold;
+	font-size : 16px;
+	background : none;
+	color : white;
+	border : 2px solid blueviolet;
+	width : 100%;
+	padding : 10px;
+	letter-spacing : 3px;
+	cursor : pointer;
+	transition : 0.5s;
+}
+.btn:hover{
+	background : blue;
+}
+h1{
+	font-size : 35px;
+	text-align : center;
+	margin : 20px;
+}
+.bottom{
+	float: right;
+}
+footer{
+	color : white;
+	text-align : center;
+	text-shadow : 2px 2px green;
+}
