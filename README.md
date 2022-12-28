@@ -13,6 +13,7 @@ Penerapan dnegan menggunakan:
 Link penjelasan: https://youtu.be/rcWrTs1sxms 
 
 Jika ingin mengakses:
-1. Unduh terlebih dahulu file dengan ekstensi .txt diatas
+1. Unduh terlebih dahulu file dengan ekstensi .sql diatas
 2. Import file tersebut kedalam database local menggunakan phpmyadmin
 3. Username dan password tertera didalam database tersebut
+4. Web bisa di akses
