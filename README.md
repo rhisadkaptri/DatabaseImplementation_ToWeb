@@ -4,7 +4,7 @@ Membuat sebuah database serta implementasikan pada halaman web, dengan ketentuan
 - Menerapkan fitur login multi user dengan masing-masing user memiliki level user.
 - Terdapat minimal 3 halaman dan masing-masing halamannya mempunyai hak akses.
 
-Penerapan dnegan menggunakan:
+Penerapan dengan menggunakan:
 1) Function dan Stored Procedure
 2) Trigger
 3) View dan Fulltext Search (min. 3 contoh)
