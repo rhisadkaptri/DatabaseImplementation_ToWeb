@@ -12,6 +12,9 @@ Penerapan dengan menggunakan:
 
 Link penjelasan: https://youtu.be/rcWrTs1sxms 
 
+### Tampilan Awal
+![gambar](./images/tampilan.png)
+
 Jika ingin mengakses:
 1. Unduh terlebih dahulu file dengan ekstensi .sql diatas
 2. Import file tersebut kedalam database local menggunakan phpmyadmin
